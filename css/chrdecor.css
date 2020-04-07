@@ -1,0 +1,31 @@
+
+.chrdecor{
+	background-image: url("../images/flags/chdeco1.png");
+	position:absolute!important;
+	z-index:9999!important;
+	height:120px!important;
+	background-repeat: repeat-x;
+	width:100%!important;
+	background-size: 300px 100px;
+	margin-top:-1%!important;
+}
+
+.chrdecor:hover{
+	opacity:1!important;
+	
+}
+.chrdecor2{
+	background-image: url("../images/flags/chdeco1.png");
+	position:absolute!important;
+	z-index:9999!important;
+	height:120px!important;
+	background-repeat: repeat-x;
+	width:100%!important;
+	background-size: 300px 100px;
+	margin-top:-3%!important;
+}
+
+.chrdecor2:hover{
+	opacity:1!important;
+	
+}
