@@ -50,7 +50,7 @@ color:#f2f2f2!important;
         </div>
         <nav role="navigation" class="collapse navbar-collapse navbar-right">
           <ul class="navbar-nav nav">
-            <li ><a class="dropdown-toggle" href="https://l0renco.github.io/">HOME</a></li>
+            <li ><a class="dropdown-toggle" href="index.html">HOME</a></li>
             <li class="dropdown">
               <a data-toggle="dropdown" href="#" class="dropdown-toggle">GENRE <b class="caret"></b></a>
               <ul class="dropdown-menu dropdown-menu2">
