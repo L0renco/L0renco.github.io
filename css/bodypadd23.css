@@ -1,0 +1,47 @@
+
+
+
+.bodypadd{
+	padding-left:3%!important;
+	padding-right:3%!important;
+}
+
+
+body #futica{
+	padding-left:0%!important;
+	padding-right:0%!important;
+}
+
+#backzamag{
+	margin-left:-3%!important;
+	margin-right:-3%!important;
+}
+
+	
+
+@media (max-width: 660px) {
+
+body{
+	padding-left:0%!important;
+	padding-right:0%!important;
+}
+
+}
+
+
+.imghvr-flip-diag-1{
+
+	margin:4px!important;
+}
+.imghvr-flip-diag-1 a{
+	border:1px solid gray!important;
+		 box-shadow: rgba(0,0,0,0.8) 0 0 10px;
+ border-collapse: collapse;
+}
+
+
+body {
+
+    background: url(https://hdeuropix.io/images/body2.png) repeat 0 0!important;
+ 
+}
